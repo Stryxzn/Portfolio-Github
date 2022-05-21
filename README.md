@@ -4,7 +4,7 @@
  
 <ul>
  <li> I'm 16 years old </li>
- <li> I’m currently studying Web Development and java for FTC </li>
+ <li> I’m currently studying Python and JS for future objetives  </li>
  <li> I'm on Untitled #10306 FLL robotics team </li>
  <li> I'm participating in the FIRST Lego League (FLL) as python programmer </li>
  <li> I pretend to apply to Computer Science in a few years </li>
