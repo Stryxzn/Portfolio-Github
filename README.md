@@ -33,7 +33,7 @@
      <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python icon" />
  </p>
 
-## &#127775;IDE
+## &#127776;IDE
 <p align="left">
  <img align="center" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit icon" />
  <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Vs Code icon" />
