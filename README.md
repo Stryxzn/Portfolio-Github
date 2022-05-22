@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Müller</h1>
-<img align="center" src="![image](https://user-images.githubusercontent.com/92129178/169708860-407fbae5-1a01-4844-84ec-440d4edd51fb.png)
-"/>
+<p align="center">
+<img align="center" src="https://www.nsvmundogeek.com.br/wp-content/uploads/2020/05/Azusagawa-Kaede-GIF-Anime.gif"/>
 
 ## 🌞&nbsp;Curiosities
  
