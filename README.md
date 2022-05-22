@@ -4,7 +4,6 @@
 ## 🌞&nbsp;Curiosities
  
 <ul>
- <li> I'm 16 years old </li>
  <li> I’m currently studying Python and JS for future objetives  </li>
  <li> I'm on Untitled #10306 FLL robotics team </li>
  <li> I'm participating in the FIRST Lego League (FLL) as python programmer </li>
@@ -15,16 +14,7 @@
 ## &#127760;I discovered the world of programming through the robotics competition. My first robotics competition was the FLL (First Lego League), since then I've been studying different languages ​​to get the most experience.
 
 
-## &#128235;Social Media
-  <p align="left">
-  <a href="https://twitter.com/Muller1025" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/Muller1025-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>  
-  </a>
- 
-  <a href="https://www.instagram.com/diegomullxr/" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/diegomullxr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>  
-  </a>
- </p>
+
  
  ## &#127775;Experiencies
   <p align="left">
@@ -47,3 +37,14 @@
    <p align="left">
   ➡️ <img align="center" src="https://img.shields.io/badge/Stryxznlol1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail icon" />
 </p>
+
+## &#128235;Social Media
+  <p align="left">
+  <a href="https://twitter.com/Muller1025" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/Muller1025-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>  
+  </a>
+ 
+  <a href="https://www.instagram.com/diegomullxr/" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/diegomullxr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>  
+  </a>
+ </p>
