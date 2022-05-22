@@ -1,7 +1,7 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Müller</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Müller</h1>
 
-  <p align="left">
-<img align="center" src="https://c.tenor.com/9_slb-5BWScAAAAC/mountain-rbg.gif"/>
+  <p align="center">
+<img align="center" src="https://c.tenor.com/6LyXLgF8ksUAAAAd/anime-gif.gif"/>
 </p>
 
 ## 🌞&nbsp;Curiosities
