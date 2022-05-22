@@ -29,8 +29,8 @@
  <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Vs Code icon" />
  <img align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm icon" />
  
-<p align="left">
-<img align="center" src="https://data.whicdn.com/images/287293762/original.gif"/>
+  <p align="left">
+<img align="center" src="https://c.tenor.com/t6IhYwYm9OwAAAAd/rgb-ram.gif"/>
 </p>
 
   ## &#128194;Contact-me
