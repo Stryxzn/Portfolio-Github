@@ -1,5 +1,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Müller</h1>
 
+  <p align="left">
+<img align="center" src="https://i.pinimg.com/originals/e0/43/5f/e0435fd452bbed155b5b3c5128b4f7c5.gif"/>
+</p>
 
 ## 🌞&nbsp;Curiosities
  
@@ -13,9 +16,6 @@
 
 ## &#127760;I discovered the world of programming through the robotics competition. My first robotics competition was the FLL (First Lego League), since then I've been studying different languages ​​to get the most experience.
 
-
-
- 
  ## &#127775;Experiencies
   <p align="left">
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5 icon" />
@@ -28,10 +28,6 @@
  <img align="center" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit icon" />
  <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Vs Code icon" />
  <img align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm icon" />
- 
-  <p align="left">
-<img align="center" src="https://c.tenor.com/t6IhYwYm9OwAAAAd/rgb-ram.gif"/>
-</p>
 
   ## &#128194;Contact-me
    <p align="left">
