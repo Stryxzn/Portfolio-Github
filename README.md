@@ -31,6 +31,7 @@
 
   ## &#128194;Contact-me
    <p align="left">
+  <a href="https://mail.google.com/mail/u/1/?zx=qvbnkmq0w4ln#inbox" target="_blank">
   ➡️ <img align="center" src="https://img.shields.io/badge/Stryxznlol1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail icon" />
 </p>
 
