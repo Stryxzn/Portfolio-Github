@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Müller</h1>
 
   <p align="center">
-<img align="center" src="https://c.tenor.com/6LyXLgF8ksUAAAAd/anime-gif.gif"/>
+<img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/89109107-5beb-4987-8362-458439485704/dapoy3r-48232232-f674-43a5-bb9b-cae3d597f0de.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg5MTA5MTA3LTViZWItNDk4Ny04MzYyLTQ1ODQzOTQ4NTcwNFwvZGFwb3kzci00ODIzMjIzMi1mNjc0LTQzYTUtYmI5Yi1jYWUzZDU5N2YwZGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.huBdfgRYiujDbmecGxhkPaP1NRkqiPme8rwzmzMvjK4"/>
 </p>
 
 ## 🌞&nbsp;Curiosities
