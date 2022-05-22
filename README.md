@@ -1,5 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Müller</h1>
-<img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/929300849226077615/E5DDB9609D5CC455AD775EB27AF450C75C1F63B6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
+<img align="center" src="![image](https://user-images.githubusercontent.com/92129178/169708860-407fbae5-1a01-4844-84ec-440d4edd51fb.png)
+"/>
 
 ## 🌞&nbsp;Curiosities
  
