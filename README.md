@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Müller</h1>
+<h1 align="center">hi!, I'm Diego Müller</h1>
 
   <p align="center">
 <img align="center" src="https://c.tenor.com/6G_F9SqoQhcAAAAC/jujutsu-kaisen.gif"/>
