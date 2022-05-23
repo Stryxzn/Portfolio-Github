@@ -1,7 +1,7 @@
 <h1 align="center">hi!, I'm Diego Müller</h1>
 
   <p align="center">
-<img align="center" src="https://c.tenor.com/6G_F9SqoQhcAAAAC/jujutsu-kaisen.gif" width="350"px/>
+<img align="center" src="https://c.tenor.com/Ri0dWjWTfjsAAAAC/anime-hi.gif" width="300"px/>
 </p>
 
 ## 🌞&nbsp;Curiosities 
