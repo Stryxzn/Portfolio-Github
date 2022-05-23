@@ -1,11 +1,10 @@
 <h1 align="center">hi!, I'm Diego Müller</h1>
 
   <p align="center">
-<img align="center" src="https://c.tenor.com/6G_F9SqoQhcAAAAC/jujutsu-kaisen.gif"/>
+<img align="center" src="https://c.tenor.com/6G_F9SqoQhcAAAAC/jujutsu-kaisen.gif" width="350"px/>
 </p>
 
-## 🌞&nbsp;Curiosities
- 
+## 🌞&nbsp;Curiosities 
 <ul>
  <li> I’m currently studying Python and JS for future objetives  </li>
  <li> I'm on Untitled #10306 FLL robotics team </li>
