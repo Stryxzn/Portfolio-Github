@@ -1,7 +1,7 @@
 <h1 align="center">hi!, I'm Diego Müller</h1>
 
   <p align="center">
-<img align="center" src="https://c.tenor.com/Ri0dWjWTfjsAAAAC/anime-hi.gif" width="300"px/>
+<img align="center" src="https://acegif.com/wp-content/gif/anime-sleep-31.gif" width ="300"px/>
 </p>
 
 ## 🌞&nbsp;Curiosities 
