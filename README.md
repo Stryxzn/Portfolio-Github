@@ -6,6 +6,7 @@
 
 ## 🌞&nbsp;Curiosities 
 <ul>
+ <font face="Arial"> Arial </font> <br />
  <li> I’m currently studying Python and JS for future objetives  </li>
  <li> I'm participating in the FIRST Lego League (FLL) as python programmer </li>
  <li> I intend  apply to computer science in a few years </li>
