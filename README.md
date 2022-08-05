@@ -5,13 +5,12 @@
 </p>
 
 ## 🌞&nbsp;Curiosities 
-<ul>
- <font face="Times New Roman"> Arial </font> <br />
- <li> I’m currently studying Python and JS for future objetives  </li>
- <li> I'm participating in the FIRST Lego League (FLL) as python programmer </li>
+<font face="Verdana"><ul>
+<li> I’m currently studying Python and JS for future objetives  </li>
+ <li> I'm participating in the FIRST Lego League (FLL) as python programmer </li> 
  <li> I intend  apply to computer science in a few years </li>
- <li> I live in RS/Brazil </li>
- </ul>
+ <li> I live in RS/Brazil </li> 
+ </ul></font>
 
 ## &#127760;I discovered the world of programming through the robotics competition. My first robotics competition was the FLL (First Lego League), since then I've been studying different languages ​​to get the most experience.
 
