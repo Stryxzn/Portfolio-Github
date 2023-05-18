@@ -39,7 +39,7 @@
  ➡️  <img align="center" src="https://img.shields.io/badge/Muller1025-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>  
   </a>
  
-  <a href="https://www.instagram.com/diegomullxr/" target="_blank">
+  <a href="https://www.instagram.com/mullxr25/" target="_blank">
  ➡️  <img align="center" src="https://img.shields.io/badge/diegomullxr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>  
   </a>
  </p>
