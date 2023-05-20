@@ -1,9 +1,5 @@
 <h1 align="center">hi!, I'm Diego Müller</h1>
 
-  <p align="center">
-<img align="center" src="https://i.imgur.com/LFRN66Y.gif" width ="300"px/>
-</p>
-
 ## 🌞&nbsp;Curiosities 
 <font face="Verdana"><ul>
 <li> I’m currently studying Python and JS for future objetives  </li>
