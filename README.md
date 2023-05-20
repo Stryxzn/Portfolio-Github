@@ -3,7 +3,7 @@
 ## 🌞&nbsp;Curiosities 
 <font face="Verdana"><ul>
 <li> I’m currently studying Python and JS for future objetives  </li>
- <li> I'm participating in the FIRST Lego League (FLL) as python programmer </li> 
+ <li> I'm participated in the FIRST Lego League (FLL) as python programmer </li> 
  <li> I intend  apply to computer science in a few years </li>
  <li> I live in RS/Brazil </li> 
  </ul></font>
