@@ -1,5 +1,5 @@
 <h1 align="center">hi!, I'm Diego Müller</h1>
-<img align="center" src="https://media.tenor.com/tPLkPiyJMD0AAAAC/luffy-oi.gif" alt="luffy dando oi">
+<img src="https://media.tenor.com/tPLkPiyJMD0AAAAC/luffy-oi.gif" align="center" alt="luffy dando oi">
 
 ## 🌞&nbsp;Curiosities 
 <font face="Verdana"><ul>
